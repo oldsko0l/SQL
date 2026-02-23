@@ -1,0 +1,17 @@
+# Introdução e Conceitos de Banco de Dados
+
+## 1. O que é SQL?
+* [cite_start]**SQL** significa Linguagem de Consulta Estruturada[cite: 5].
+* [cite_start]É frequentemente pronunciado como **SeQuel**[cite: 6].
+* [cite_start]É utilizado para interagir com dados em bancos de dados, permitindo cálculos complexos como encontrar o "Gasto Total" em grandes volumes de dados[cite: 7, 8].
+
+## 2. Por que aprender SQL?
+* [cite_start]**Falar com Dados**: Permite a comunicação direta com sistemas de dados[cite: 10].
+* [cite_start]**Alta Demanda**: Há grande procura por essas habilidades em várias funções técnicas[cite: 11].
+* [cite_start]**Caminhos de Carreira**: Essencial para Desenvolvedores, Analistas, Cientistas e Engenheiros de Dados[cite: 12].
+* [cite_start]**Padrão da Indústria**: Linguagem padrão usada com ferramentas como Power BI, Tableau, Kafka, Spark e Synapse[cite: 13].
+
+## 3. DBMS (Sistema de Gerenciamento)
+* [cite_start]Atua como interface entre o usuário e o banco de dados[cite: 15].
+* [cite_start]**Disponibilidade**: Funcionam 24/7 para garantir que os dados estejam sempre acessíveis[cite: 17].
+* [cite_start]**Interação**: Aplicativos, ferramentas de BI e usuários enviam consultas SQL ao DBMS para recuperar dados[cite: 18].
