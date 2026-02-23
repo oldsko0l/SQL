@@ -1,37 +1,17 @@
-Anatomia de uma Declaração SQL
-1. Elementos da Instrução
+# 🚀 Introdução ao SQL: O Básico do Básico
 
-Comentários (--): Documentam o código.
+SQL (Structured Query Language) é a língua que usamos para "conversar" com bancos de dados. É como se você desse ordens para o computador encontrar informações específicas em um mar de dados.
 
+## Por que aprender isso?
+- **Falar com os dados:** Você não precisa de intermediários para entender a informação.
+- **Mercado:** Quase toda empresa de tecnologia precisa de alguém que saiba SQL.
+- **Carreira:** Essencial para quem quer ser Analista, Cientista ou Desenvolvedor.
+- **Padrão:** É usado em ferramentas famosas como Power BI e Excel.
 
-Palavras-chave: Reservadas e com significado especial.
+## Onde os dados moram? (DBMS)
+Os dados ficam dentro de um **DBMS** (Sistema de Gerenciamento de Banco de Dados), que funciona como uma ponte entre você e a informação.
+- **Servidor:** Onde o banco "vive", geralmente ligado 24/7 na nuvem.
+- **Interação:** Você envia uma pergunta (Query) e o sistema te devolve a resposta.
 
-
-Cláusulas: Blocos que constroem a instrução, como FROM e WHERE.
-
-
-Identificadores: Nomes de objetos de banco como tabelas ou colunas.
-
-2. Ordem Lógica de Avaliação
-O SQL não processa as cláusulas na ordem em que são escritas. A execução padrão segue este fluxo:
-
-
-FROM: Identifica a origem dos dados.
-
-
-WHERE: Filtra os registros com condições específicas.
-+1
-
-
-SELECT: Determina quais colunas serão buscadas.
-+1
-
-
-ORDER BY: Ordena os resultados finais.
-+1
-
-
-Regra Importante: Sempre use a cláusula WHERE em comandos UPDATE e DELETE para evitar alterações em massa não intencionais em todas as linhas da tabela.
-+2
-
-Deseja que eu ajude a criar o arquivo README.md principal, que servirá como uma capa para o seu repositório?
+---
+[Próxima Aula: Estruturas](02_estruturas_e_tipos.md)
