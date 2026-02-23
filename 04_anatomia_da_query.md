@@ -36,5 +36,5 @@ ORDER BY coluna;           -- Organização (A-Z ou Z-A)
 
 ---
 
-[⬅️ Página Anterior](03_comandos_sql.md) | [🏠 Voltar ao Início](link-do-inicio)
+[⬅️ Página Anterior](03_comandos_sql.md) | [🏠 Voltar ao Início](01-introducao-e-conceitos.md)
 
